@@ -1,0 +1,12 @@
+flask
+flask-cors
+flask-restx
+marshmallow
+celery
+redis
+supabase
+python-multipart
+pymupdf
+python-dotenv
+requests
+openai
